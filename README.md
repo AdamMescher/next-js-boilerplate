@@ -3,7 +3,8 @@
 Personal preferences added for starting NextJS application via create-next-app
 
 ## Added Packages
-* styled-components - CSS-in-JS
+* styled-components -- CSS-in-JS
+* babel-plugin-stylyed-components -- necessary for SSR. [Docs found here](https://www.styled-components.com/docs/tooling#babel-plugin)
 * React Storybook -- Component Library
 
 

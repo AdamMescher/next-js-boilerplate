@@ -2,5 +2,5 @@
 
 Personal preferences added for starting NextJS application via create-next-app
 
-## Additional Additions
+## Added Packages
 * styled-components - CSS-in-JS

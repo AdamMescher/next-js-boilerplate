@@ -4,7 +4,7 @@ Personal preferences added for starting NextJS application via create-next-app
 
 ## Added Packages
 * styled-components - CSS-in-JS
-* React Storybook
+* React Storybook -- Component Library
 
 
 This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).

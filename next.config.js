@@ -8,3 +8,11 @@ module.exports = {
     return config
   }
 }
+
+module.exports = {
+  exportPathMap: function () {
+    return {
+      '/': { page: '/' }
+    }
+  }
+}

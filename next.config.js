@@ -17,3 +17,9 @@ module.exports = {
     }
   }
 }
+
+module.exports = {
+  // some configuration
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/next-js-boilerplate' : '',
+  // another configuration
+}

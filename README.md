@@ -2,6 +2,8 @@
 
 Personal preferences added for starting NextJS application via create-next-app
 
+[Live site](https://adammescher.github.io/next-js-boilerplate/) via GitHub Pages.
+
 ## Useful Information
 
 * Added [Static Exporting](https://nextjs.org/docs/#static-html-export) and associated files

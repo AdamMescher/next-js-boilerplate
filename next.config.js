@@ -12,6 +12,7 @@ module.exports = {
 module.exports = {
   exportPathMap: function () {
     return {
+      // ADD ALL PAGES IN APPLICATION HERE
       '/': { page: '/' }
     }
   }

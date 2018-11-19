@@ -2,6 +2,13 @@
 
 Personal preferences added for starting NextJS application via create-next-app
 
+## Useful Information
+
+* Added [Static Exporting](https://nextjs.org/docs/#static-html-export) and associated files
+* Added ability to deploy to now.sh
+  * navigate to `out` directory
+  * run `now` command in the terminal to deploy static build to now.sh
+
 ## Added Packages
 * styled-components -- CSS-in-JS
 * babel-plugin-stylyed-components -- necessary for SSR. 
